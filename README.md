@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-army-gifs&psig=AOvVaw0OIIKc11M-I-Ngr_A6KUty&ust=1667921552304000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiWhZKynPsCFQAAAAAdAAAAABAM" width="100%" height="176">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-army-gifs&psig=AOvVaw0OIIKc11M-I-Ngr_A6KUty&ust=1667921552304000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiWhZKynPsCFQAAAAAdAAAAABAM" width="396" height="221">
 </h3> 
 
 <p align="center">
