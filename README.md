@@ -7,9 +7,6 @@
   <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 25px;" src="https://blog.replit.com/images/new_logo/logotype.png" alt="Replit"></a> 
 </p>
 
---- 
-
-```
 Hello, my name is Feesh, I'm currently a student in a small middle school. 
 My projects include Batch, Java/Javescript, and HTML.
 
