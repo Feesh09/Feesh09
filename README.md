@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="https://github.com/Feesh09">
-    <img src="https://img.shields.io/badge/Github/sponsors/Feesh09?style=for-the-badge&logo=github&logoColor=black" alt="Github Sponsors"/>
+    <img src="https://img.shields.io/Github/sponsors/Feesh09?style=for-the-badge&logo=github&logoColor=black" alt="Github Sponsors"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
