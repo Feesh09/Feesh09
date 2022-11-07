@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="http://www.cutecatgifs.com/wp-content/uploads/2013/12/Kitten-climbs-bunk-bed-ladder.gif" width="396" height="221">
+<img src="http://www.cutecatgifs.com/wp-content/uploads/2013/12/Kitten-climbs-bunk-bed-ladder.gif" width="396" height="400">
 </h3> 
 
 <p align="center">
