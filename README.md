@@ -13,31 +13,19 @@
 Hello, my name is Feesh, I'm currently a student in a small middle school. 
 My projects include Batch, Java/Javescript, and HTML.
 
-<a href="https://github.com/yoxmo">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Feesh09&theme=tokyonight" />
-  <br>
+<a href="https://github.com/Feesh09">
 </a>
 
 <p> _________________________________________ </p>
 
 
- - View all my [projects](https://github.com/yoxmo).
- - Try out some [repos](https://replit.com/@Yoxmo).
- - Check out my [website](https://replit.com/@Yoxmo).
- - Contact me at [mamo.17@osu.edu](mailto:mamo.17@buckeyemail.osu.edu).
+ - View all my [projects](https://github.com/Feesh09).
 
 
 <p align="center">
 <br/>
 </p>
 
---- 
-
-<div align="center" style="width:75%"> 
-  <p align="center">
-  </p>
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:70%;'/>
-</div>
 
 
 
