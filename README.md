@@ -23,8 +23,8 @@
 ### 💻 About Me :
 
 I am a part time batch file developer.
-I only know Batch, HTML, some Java/Javascript, and some Bash
-My favorite languages are Typescript and Batch
+I only know Batch, HTML, some Java/Javascript, and some Bash.
+My favorite languages are Typescript and Batch.
 
 <div>
  <img src=”https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg” title=”Github” alt=”Github” width=”40” height=”40”/>&nbsp;
@@ -36,13 +36,12 @@ My favorite languages are Typescript and Batch
  <img src=”https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg” title=”Github” alt=”Github” width=”40” height=”40”/>&nbsp;
  <img src=”https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg” title=”Github” alt=”Github” width=”40” height=”40”/>
 </div>
----
 
 ### :fire: My Stats : 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Feesh09&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feesh09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
