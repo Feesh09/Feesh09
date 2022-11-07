@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgflip.com/2s9sac.jpg" width="100"/>
+ <img src="https://i.imgflip.com/2s9sac.jpg" width="100"/>
 </div>
 
 <div id=”badges”>
