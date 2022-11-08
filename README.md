@@ -2,10 +2,11 @@
  <img src="" width="100"/>
 </div>
 
-<div id=”badges”>
+<div id="badges">
  <a href=”github.com/Feesh09”>
   <img src=”https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white”/>
  </a>
+</div>
 
 <img src=”https://komarev.com/ghpvc/?username=Feesh09&style=flat-square&color=black” alt=”Github”/>
 
