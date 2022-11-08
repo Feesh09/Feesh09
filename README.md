@@ -70,6 +70,7 @@
 I am a part time batch file developer.
 I only know Batch, HTML, some Java/Javascript, and some Bash.
 My favorite languages are Typescript and Batch.
+You should consider [donating](https://www.buymeacoffee.com/feesh09) it really helps me :)
 
 <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/>&nbsp;
 <img src="https://forthebadge.com/images/badges/built-with-science.svg"/>
