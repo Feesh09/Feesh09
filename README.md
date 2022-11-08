@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://i.imgflip.com/2s9sac.jpg" width="100"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvigaspray.pk%2Fpixel-cpu-icon-k.html&psig=AOvVaw3584x_LGPVLJQpCHJ7Z2pn&ust=1668003977590000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDmmJvlnvsCFQAAAAAdAAAAABAD" width="100"/>
 </div>
 
 <div id=”badges”>
